@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="ScreenHot">
+    <file>Resources/book.png</file>
+    <file>Resources/heart.png</file>
+    <file>Resources/location.png</file>
+  </qresource>
+</RCC>

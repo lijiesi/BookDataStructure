@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="test_10B">
+    <file>Resources/oepn.png</file>
+    <file>Resources/help.png</file>
+    <file>Resources/new.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/setting.png</file>
+  </qresource>
+</RCC>
